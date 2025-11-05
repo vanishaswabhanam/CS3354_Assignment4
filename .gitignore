@@ -35,3 +35,5 @@ Thumbs.db
 # Test output
 test-output/
 *.exec
+*.pdf
+REPORT.md
